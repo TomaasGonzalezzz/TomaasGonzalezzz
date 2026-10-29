@@ -22,6 +22,18 @@ Trabajo con entrenamiento y evaluación de modelos, validación cruzada, procesa
 
 Mi formación electromecánica incluye **Solid Edge, diseño para impresión 3D, Arduino y Raspberry Pi**.
 
+## Actualmente: VisionX
+
+Desarrollo **[VisionX](https://github.com/TomaasGonzalezzz/VisionX)** junto a **Bautista García**, como proyecto final de Visión Artificial en UdeSA. Es un prototipo de asistencia para personas con baja visión que busca convertir lo que captura una cámara estéreo en información espacial comunicada por voz.
+
+El objetivo es que el usuario pueda **buscar un objeto y recibir indicaciones para localizarlo**, consultar su distancia, leer textos y pedir una descripción de la escena. La primera demo está prevista con cámara USB y procesamiento local.
+
+El proyecto combina calibración de cámaras, detección de objetos y estimación de profundidad. También investigamos una **red propia de fusión de profundidad**, comparándola con métodos de referencia para evaluar su precisión e incertidumbre.
+
+Mi trabajo se enfoca en cámara y calibración, detección, interacción por voz e integración de la aplicación con el hardware. **Está en desarrollo**: las funciones y evaluaciones anteriores forman parte del alcance previsto. Es el proyecto donde conecto mi formación en IA y electromecánica con mi interés en percepción y robótica.
+
+[Ver el proyecto y su plan de desarrollo](https://github.com/TomaasGonzalezzz/VisionX).
+
 ## Proyectos seleccionados
 
 | Proyecto | Qué se puede encontrar |
@@ -34,8 +46,6 @@ Mi formación electromecánica incluye **Solid Edge, diseño para impresión 3D,
 | [Esports World Cup Database](https://github.com/TomaasGonzalezzz/Esports-World-Cup-Database) | Diseño relacional en PostgreSQL, consultas SQL, restricciones y permisos por rol. |
 
 Otros trabajos: [redes neuronales sobre EMNIST](https://github.com/TomaasGonzalezzz/EMNIST-Neural-Networks) y [regresión de precios de viviendas](https://github.com/TomaasGonzalezzz/Housing-Price-Regression).
-
-Actualmente trabajo en [VisionX](https://github.com/TomaasGonzalezzz/VisionX), un proyecto en desarrollo de asistencia espacial con cámara estéreo e interacción por voz. Mi orientación a futuro es la robótica, con especial interés en percepción, sistemas dinámicos y control.
 
 Además, doy clases particulares de ciencias exactas desde 2021 y participé en proyectos de ingeniería aplicada, incluido un guante de comunicación para personas sordociegas premiado por el Rotary Club de Tigre en 2023.
 
