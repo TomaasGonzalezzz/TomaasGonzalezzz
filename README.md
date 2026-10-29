@@ -18,7 +18,7 @@ Me interesa desarrollar sistemas que combinen aprendizaje automático, percepci�
 
 ![Git](https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-1f2937?style=flat-square&logo=jupyter&logoColor=white) ![uv](https://img.shields.io/badge/uv-1f2937?style=flat-square)
 
-En los proyectos también uso **Transformers, Open3D, ONNX Runtime, OpenSMILE y Matplotlib**. Trabajo con entrenamiento y evaluación de modelos, validación cruzada, procesamiento de imágenes y audio.
+Trabajo con entrenamiento y evaluación de modelos, validación cruzada, procesamiento de imágenes y audio.
 
 Mi formación electromecánica incluye **Solid Edge, diseño para impresión 3D, Arduino y Raspberry Pi**.
 
