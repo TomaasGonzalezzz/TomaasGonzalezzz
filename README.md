@@ -2,7 +2,7 @@
 
 Estudio **Ingeniería en Inteligencia Artificial en la Universidad de San Andrés** y soy **Técnico Electromecánico** egresado de la Escuela Técnica Henry Ford.
 
-Me interesa desarrollar sistemas que combinen aprendizaje automático, percepción y robótica. Este perfil reúne proyectos académicos individuales y en equipo; en cada repositorio se indican los autores, el alcance y los resultados.
+Me interesa desarrollar sistemas que combinen aprendizaje automático, percepción y robótica. Mi perfil reúne proyectos académicos individuales y en equipo
 
 ## Con qué trabajo
 
