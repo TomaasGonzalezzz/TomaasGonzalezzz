@@ -30,8 +30,6 @@ El objetivo es que el usuario pueda **buscar un objeto y recibir indicaciones pa
 
 El proyecto combina calibración de cámaras, detección de objetos y estimación de profundidad. También investigamos una **red propia de fusión de profundidad**, comparándola con métodos de referencia para evaluar su precisión e incertidumbre.
 
-Mi trabajo se enfoca en cámara y calibración, detección, interacción por voz e integración de la aplicación con el hardware. **Está en desarrollo**: las funciones y evaluaciones anteriores forman parte del alcance previsto. Es el proyecto donde conecto mi formación en IA y electromecánica con mi interés en percepción y robótica.
-
 [Ver el proyecto y su plan de desarrollo](https://github.com/TomaasGonzalezzz/VisionX).
 
 ## Proyectos seleccionados
