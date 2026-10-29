@@ -4,6 +4,24 @@ Estudio **Ingeniería en Inteligencia Artificial en la Universidad de San André
 
 Me interesa desarrollar sistemas que combinen aprendizaje automático, percepción y robótica. Este perfil reúne proyectos académicos individuales y en equipo; en cada repositorio se indican los autores, el alcance y los resultados.
 
+## Con qué trabajo
+
+**Lenguajes y bases de datos**
+
+![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-1f2937?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1f2937?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=flat-square&logo=postgresql&logoColor=white)
+
+**Machine Learning y visión**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-1f2937?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-1f2937?style=flat-square&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-1f2937?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit%2Dlearn-1f2937?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-1f2937?style=flat-square&logo=opencv&logoColor=white)
+
+**Entorno de desarrollo**
+
+![Git](https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-1f2937?style=flat-square&logo=jupyter&logoColor=white) ![uv](https://img.shields.io/badge/uv-1f2937?style=flat-square)
+
+En los proyectos también uso **Transformers, Open3D, ONNX Runtime, OpenSMILE y Matplotlib**. Trabajo con entrenamiento y evaluación de modelos, validación cruzada, procesamiento de imágenes y audio.
+
+Mi formación electromecánica incluye **Solid Edge, diseño para impresión 3D, Arduino y Raspberry Pi**.
+
 ## Proyectos seleccionados
 
 | Proyecto | Qué se puede encontrar |
@@ -16,14 +34,6 @@ Me interesa desarrollar sistemas que combinen aprendizaje automático, percepci�
 | [Esports World Cup Database](https://github.com/TomaasGonzalezzz/Esports-World-Cup-Database) | Diseño relacional en PostgreSQL, consultas SQL, restricciones y permisos por rol. |
 
 Otros trabajos: [redes neuronales sobre EMNIST](https://github.com/TomaasGonzalezzz/EMNIST-Neural-Networks) y [regresión de precios de viviendas](https://github.com/TomaasGonzalezzz/Housing-Price-Regression).
-
-## Herramientas y temas de trabajo
-
-- **Programación:** Python, C++ y SQL.
-- **Machine Learning:** NumPy, pandas, scikit-learn y PyTorch; entrenamiento, validación cruzada, regularización y evaluación.
-- **Visión y audio:** OpenCV, Open3D, Transformers, ONNX Runtime y OpenSMILE.
-- **Desarrollo:** Git/GitHub, Jupyter, entornos virtuales y uv.
-- **Formación técnica:** Solid Edge, diseño para impresión 3D, Arduino y Raspberry Pi.
 
 Actualmente trabajo en [VisionX](https://github.com/TomaasGonzalezzz/VisionX), un proyecto en desarrollo de asistencia espacial con cámara estéreo e interacción por voz. Mi orientación a futuro es la robótica, con especial interés en percepción, sistemas dinámicos y control.
 
