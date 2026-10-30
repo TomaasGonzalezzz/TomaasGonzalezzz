@@ -2,7 +2,7 @@
 
 Estudio **Ingeniería en Inteligencia Artificial en la Universidad de San Andrés** y soy **Técnico Electromecánico** egresado de la Escuela Técnica Henry Ford.
 
-Me interesa desarrollar sistemas que combinen aprendizaje automático, percepción y robótica. Mi perfil reúne proyectos académicos individuales y en equipo
+Me interesa desarrollar sistemas que combinen aprendizaje automático, percepción y robótica. Mi perfil reúne proyectos académicos individuales y en equipo.
 
 ## Con qué trabajo
 
@@ -24,24 +24,28 @@ Mi formación electromecánica incluye **Solid Edge, diseño para impresión 3D,
 
 ## Actualmente: VisionX
 
-Desarrollo **[VisionX](https://github.com/TomaasGonzalezzz/VisionX)** junto a **Bautista García**, como proyecto final de Visión Artificial en UdeSA. Es un prototipo de asistencia para personas con baja visión que busca convertir lo que captura una cámara estéreo en información espacial comunicada por voz.
+[![VisionX](assets/visionx.png)](https://github.com/TomaasGonzalezzz/VisionX)
 
-El objetivo es que el usuario pueda **buscar un objeto y recibir indicaciones para localizarlo**, consultar su distancia, leer textos y pedir una descripción de la escena. La primera demo está prevista con cámara USB y procesamiento local.
+Desarrollo **[VisionX](https://github.com/TomaasGonzalezzz/VisionX)** junto a **Bautista García**, como proyecto final de Visión Artificial en UdeSA: anteojos con cámara estéreo para personas con baja visión. El usuario pide un objeto y el sistema lo encuentra, calcula a qué distancia está y lo guía por voz hasta él; también busca leer textos y describir la escena.
 
-El proyecto combina calibración de cámaras, detección de objetos y estimación de profundidad. También investigamos una **red propia de fusión de profundidad**, comparándola con métodos de referencia para evaluar su precisión e incertidumbre.
-
-[Ver el proyecto y su plan de desarrollo](https://github.com/TomaasGonzalezzz/VisionX).
+El proyecto combina calibración de cámaras, detección de objetos y estimación de profundidad. Además, estamos desarrollando una **red propia que combina varias estimaciones de profundidad** e indica cuánto confiar en cada una. La primera demo está prevista con cámara USB y procesamiento local.
 
 ## Proyectos seleccionados
 
-| Proyecto | Qué se puede encontrar |
-| --- | --- |
-| [Emotion Is All You Need](https://github.com/TomaasGonzalezzz/Emotion-Is-All-You-Need) | Reconocimiento de emociones en voz con WavLM, HuBERT y wav2vec 2.0. Validación por hablante y evaluación en otro idioma. |
-| [Stereo 3D Reconstruction](https://github.com/TomaasGonzalezzz/Stereo-3D-Reconstruction) | Calibración, disparidad y fusión de nubes para reconstruir y medir un objeto real. |
-| [Panorama Stitching](https://github.com/TomaasGonzalezzz/Panorama-Stitching) | SIFT y homografías, con A-NMS, DLT, RANSAC y blending implementados con NumPy. |
-| [Student Performance Classification](https://github.com/TomaasGonzalezzz/Student-Performance-Classification) | Modelos de clasificación con NumPy y validación por escuela, con atención al desbalance de clases. |
-| [Fashion-MNIST: Unsupervised Learning](https://github.com/TomaasGonzalezzz/Fashion-MNIST-Unsupervised-Learning) | PCA, autoencoders, β-VAE, clustering y t-SNE. |
-| [Esports World Cup Database](https://github.com/TomaasGonzalezzz/Esports-World-Cup-Database) | Diseño relacional en PostgreSQL, consultas SQL, restricciones y permisos por rol. |
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/TomaasGonzalezzz/Emotion-Is-All-You-Need"><img src="assets/emotion.png" alt="Emotion Is All You Need"></a><br><b>Emotion Is All You Need</b><br>Reconocer emociones en la voz sin que el modelo aprenda a reconocer a la persona.</td>
+<td width="50%"><a href="https://github.com/TomaasGonzalezzz/Stereo-3D-Reconstruction"><img src="assets/stereo.png" alt="Stereo 3D Reconstruction"></a><br><b>Stereo 3D Reconstruction</b><br>Reconstrucción y medición en 3D de un auto de LEGO a partir de fotos estéreo.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/TomaasGonzalezzz/Panorama-Stitching"><img src="assets/panorama.png" alt="Panorama Stitching"></a><br><b>Panorama Stitching</b><br>Panorámicas con SIFT, RANSAC y homografías implementadas con NumPy.</td>
+<td><a href="https://github.com/TomaasGonzalezzz/Fashion-MNIST-Unsupervised-Learning"><img src="assets/fashion.png" alt="Fashion-MNIST"></a><br><b>Fashion-MNIST: Unsupervised Learning</b><br>PCA, autoencoders, β-VAE y clustering sobre imágenes de ropa.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/TomaasGonzalezzz/Student-Performance-Classification"><img src="assets/student.png" alt="Student Performance Classification"></a><br><b>Student Performance Classification</b><br>Clasificación desde cero con NumPy, validación por escuela y clases desbalanceadas.</td>
+<td><a href="https://github.com/TomaasGonzalezzz/Esports-World-Cup-Database"><img src="assets/esports.png" alt="Esports World Cup Database"></a><br><b>Esports World Cup Database</b><br>Modelo relacional en PostgreSQL con roles, restricciones y consultas.</td>
+</tr>
+</table>
 
 Otros trabajos: [redes neuronales sobre EMNIST](https://github.com/TomaasGonzalezzz/EMNIST-Neural-Networks) y [regresión de precios de viviendas](https://github.com/TomaasGonzalezzz/Housing-Price-Regression).
 
