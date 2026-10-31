@@ -40,7 +40,6 @@ El proyecto combina calibración de cámaras, detección de objetos y estimació
 | [Stereo 3D Reconstruction](https://github.com/TomaasGonzalezzz/Stereo-3D-Reconstruction) | Calibración, disparidad y fusión de nubes para reconstruir y medir un objeto real. |
 | [Panorama Stitching](https://github.com/TomaasGonzalezzz/Panorama-Stitching) | SIFT y homografías, con A-NMS, DLT, RANSAC y blending implementados con NumPy. |
 | [Student Performance Classification](https://github.com/TomaasGonzalezzz/Student-Performance-Classification) | Modelos de clasificación con NumPy y validación por escuela, con atención al desbalance de clases. |
-| [Fashion-MNIST: Unsupervised Learning](https://github.com/TomaasGonzalezzz/Fashion-MNIST-Unsupervised-Learning) | PCA, autoencoders, β-VAE, clustering y t-SNE. |
 | [Esports World Cup Database](https://github.com/TomaasGonzalezzz/Esports-World-Cup-Database) | Diseño relacional en PostgreSQL, consultas SQL, restricciones y permisos por rol. |
 
 Otros trabajos: [redes neuronales sobre EMNIST](https://github.com/TomaasGonzalezzz/EMNIST-Neural-Networks) y [regresión de precios de viviendas](https://github.com/TomaasGonzalezzz/Housing-Price-Regression).
