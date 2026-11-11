@@ -32,12 +32,13 @@ El proyecto combina calibración de cámaras, detección de objetos y estimació
 
 [Ver el proyecto y su plan de desarrollo](https://github.com/TomaasGonzalezzz/VisionX).
 
-En paralelo armé dos demos de visión que funcionan en tiempo real sobre cámaras comunes, pensadas para correr en equipos con poco poder de procesamiento: **[lectura de patentes para el control de accesos](https://github.com/TomaasGonzalezzz/License-Plate-Demo)** y **[conteo de personas y vehículos que cruzan una línea](https://github.com/TomaasGonzalezzz/Object-Counting-Demo)**. Cada README muestra la demo funcionando y explica cómo está hecha. Ahora estoy desarrollando una tercera: buscar en una grabación pidiendo lo que uno quiere con una frase, por ejemplo "el auto rojo que entró a la tarde".
+En paralelo armé tres demos de visión que funcionan en tiempo real sobre cámaras comunes, pensadas para correr en equipos con poco poder de procesamiento: **[lectura de patentes para el control de accesos](https://github.com/TomaasGonzalezzz/License-Plate-Demo)**, **[conteo de personas y vehículos que cruzan una línea](https://github.com/TomaasGonzalezzz/Object-Counting-Demo)** y **[búsqueda en grabaciones](https://github.com/TomaasGonzalezzz/Video-Search-Demo)**: se le pregunta a las cámaras con una frase, como "¿pasó una camioneta roja ayer a la noche?", y lleva directo al momento. Cada README muestra la demo funcionando y explica cómo está hecha.
 
 ## Proyectos seleccionados
 
 | Proyecto | Qué se puede encontrar |
 | --- | --- |
+| [Video Search Demo](https://github.com/TomaasGonzalezzz/Video-Search-Demo) | Búsqueda en grabaciones de cámaras: preguntas en castellano con un asistente local, cámaras en vivo, recorrido de un vehículo entre cámaras, alertas y resumen del turno, sin internet. |
 | [License Plate Demo](https://github.com/TomaasGonzalezzz/License-Plate-Demo) | Lectura de patentes argentinas en la entrada de un barrio: sigue cada vehículo, vota la lectura entre cuadros, la compara con listas de residentes y visitas, y registra quién entra y sale. |
 | [Object Counting Demo](https://github.com/TomaasGonzalezzz/Object-Counting-Demo) | Detección, seguimiento y conteo de personas y vehículos que cruzan una línea, en video grabado o en vivo, evaluado contra conteos hechos a mano. |
 | [Emotion Is All You Need](https://github.com/TomaasGonzalezzz/Emotion-Is-All-You-Need) | Reconocimiento de emociones en voz con WavLM, HuBERT y wav2vec 2.0. Validación por hablante y evaluación en otro idioma. |
