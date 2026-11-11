@@ -32,7 +32,7 @@ El proyecto combina calibración de cámaras, detección de objetos y estimació
 
 [Ver el proyecto y su plan de desarrollo](https://github.com/TomaasGonzalezzz/VisionX).
 
-En paralelo armé dos demos de visión que corren en vivo sobre cámaras comunes y en una notebook sin placa de video: **[lectura de patentes para el control de accesos](https://github.com/TomaasGonzalezzz/License-Plate-Demo)** y **[conteo de personas y vehículos que cruzan una línea](https://github.com/TomaasGonzalezzz/Object-Counting-Demo)**. Cada README muestra la demo funcionando y explica cómo está hecha.
+En paralelo armé dos demos de visión que funcionan en tiempo real sobre cámaras comunes, pensadas para correr en equipos con poco poder de procesamiento: **[lectura de patentes para el control de accesos](https://github.com/TomaasGonzalezzz/License-Plate-Demo)** y **[conteo de personas y vehículos que cruzan una línea](https://github.com/TomaasGonzalezzz/Object-Counting-Demo)**. Cada README muestra la demo funcionando y explica cómo está hecha. Ahora estoy desarrollando una tercera: buscar en una grabación pidiendo lo que uno quiere con una frase, por ejemplo "el auto rojo que entró a la tarde".
 
 ## Proyectos seleccionados
 
